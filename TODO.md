@@ -1,0 +1,13 @@
+# TODO
+- [x] Elixir
+- [ ] Rust
+- [ ] Go
+- [ ] Clojure
+- [ ] Nim
+- [ ] Ruby
+- [ ] Julia
+- [ ] D
+- [ ] Dart
+- [ ] Zig
+- [ ] Javascript
+- [ ] Erlang
