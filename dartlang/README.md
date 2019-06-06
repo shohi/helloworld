@@ -1,19 +1,23 @@
-# Dart
+## Dart
 
-## Install
+### Install
 
 ```
+
 brew tap dart-lang/dart
 brew install dart
-```
-
-## Run HelloWorld
 
 ```
+
+### Run HelloWorld
+
+```
+
 dart main.dart
+
 ```
 
-## TODO
+### TODO
 
 - [ ] use package manager
 

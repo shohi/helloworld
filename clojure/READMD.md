@@ -1,6 +1,6 @@
 ## Clojure
 
-## Install
+### Install
 
 ```
 
@@ -9,7 +9,7 @@ brew install leiningen
 
 ```
 
-## Run HelloWorld
+### Run HelloWorld
 
 ```
 
@@ -17,11 +17,10 @@ clj main.clj
 
 ```
 
+### TODO
 
-## TODO
 - [ ] use leiningen
 
-
-## Links
+### Links
 
 1. https://clojure.org/guides/getting_started

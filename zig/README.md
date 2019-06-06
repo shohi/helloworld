@@ -1,7 +1,6 @@
 ## zig
 
-
-## Install
+### Install
 
 ```
 
@@ -9,7 +8,7 @@ brew install zig
 
 ```
 
-## Run HelloWorld
+### Run HelloWorld
 
 ```
 
@@ -17,7 +16,7 @@ zig run hello.zig
 
 ```
 
-## Links
+### Links
 
 1. https://github.com/ziglang/zig/wiki/Install-Zig-from-a-Package-Manager
 2. https://github.com/ziglang/zig/issues/943

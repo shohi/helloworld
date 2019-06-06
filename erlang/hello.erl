@@ -1,7 +1,5 @@
-% WIP
-%-module(helloworld).
-%-export([start/0]). 
+-module(hello).
+-export([start/0]).
 
-%start() -> 
-%    io.fwrite("Hello, world!\n")
-%
+start() ->
+	io:fwrite("Hello, world!\n").

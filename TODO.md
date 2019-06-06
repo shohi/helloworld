@@ -11,5 +11,5 @@
 - [x] Dart
 - [x] Zig
 - [x] Javascript
-- [ ] Erlang
+- [x] Erlang
 - [x] Pony

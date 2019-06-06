@@ -1,6 +1,6 @@
 ## Pony
 
-## Install
+### Install
 
 ```
 
@@ -8,7 +8,7 @@ brew install ponyc
 
 ```
 
-## Run HelloWorld
+### Run HelloWorld
 
 ```
 
@@ -16,12 +16,11 @@ ponyc && ./pony
 
 ```
 
-## TODO
+### TODO
 
 - [ ] use package manager
 
-
-## Links
+### Links
 
 1. https://github.com/ponylang/ponyc/blob/master/README.md#installation
 2. https://github.com/ponylang/pony-stable/issues/75

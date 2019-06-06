@@ -1,10 +1,10 @@
-## Dlang
+## Elixir
 
 ### Install
 
 ```
 
-brew install dmd
+brew install elixir
 
 ```
 
@@ -12,7 +12,7 @@ brew install dmd
 
 ```
 
-dmd -run main.d
+elixir hello.exs
 
 ```
 
@@ -22,5 +22,4 @@ dmd -run main.d
 
 ### Links
 
-1. https://dlang.org/download.html
-2. https://tour.dlang.org/
+1. https://elixir-lang.org/install.html

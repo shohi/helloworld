@@ -1,17 +1,21 @@
 ## Julia
 
-## Install
+### Install
 
 ```
+
 brew install julia
-```
-
-## Run HelloWorld
 
 ```
+
+### Run HelloWorld
+
+```
+
 julia hello.jl
+
 ```
 
-## Links
+### Links
 
 1. https://docs.julialang.org/en/v1/manual/getting-started/
