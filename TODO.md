@@ -7,9 +7,9 @@
 - [x] Nim
 - [x] Ruby
 - [x] Julia
-- [ ] D
+- [x] D
 - [x] Dart
 - [x] Zig
 - [x] Javascript
 - [ ] Erlang
-- [ ] Pony
+- [x] Pony
