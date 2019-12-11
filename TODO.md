@@ -13,3 +13,5 @@
 - [x] Javascript
 - [x] Erlang
 - [x] Pony
+- [x] TypeScript
+- [ ] Python3
